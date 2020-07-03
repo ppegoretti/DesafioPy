@@ -1,0 +1,34 @@
+{
+    "transactionId": "string",
+    "timestamp": "string",
+    "type": "ted",
+    "amount": "integer",
+    "from": {
+        "account": {
+            "branch": "string",
+            "number": "string",
+            "institutionName": "string",
+            "name": "string"
+        },
+        "entity": {
+            "atarId": "string",
+            "fullName": "string",
+            "document": "string",
+            "documentType": "string"
+        }
+    },
+    "to": {
+        "account": {
+            "branch": "string",
+            "number": "string",
+            "institutionName": "string",
+            "name": "string"
+        },
+        "entity": {
+            "atarId": "string",
+            "fullName": "string",
+            "document": "string",
+            "documentType": "string"
+        }
+    }
+}
