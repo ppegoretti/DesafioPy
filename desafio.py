@@ -13,12 +13,12 @@ def px_mm(value):
 
 #variables
 pageFormat = (px_mm(375), px_mm(1127.55))
-logo = "files/Logo.png"
+logo = "imagens/Logo.png"
 
 class PDF(FPDF):
     def header(self):
         #self.image('Logo.png', 159, 36, 57, 52.25)
-        self.image('Logo.png', px_mm(150), px_mm(34), px_mm(65), px_mm(59.60))
+        self.image(logo, px_mm(150), px_mm(34), px_mm(65), px_mm(59.60))
         self.ln(px_mm(103))
         self.set_font('arial', 'B', 14)
         self.cell(0, 0, 'Comprovante de Transferência', 0, 1, 'C', False)
