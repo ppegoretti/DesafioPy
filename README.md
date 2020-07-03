@@ -18,4 +18,5 @@ Será solicitado a permissão para acesso a conta.
 ![alt text](https://github.com/ppegoretti/DesafioPy/blob/master/imagens/Permiss%C3%A3o.png?raw=true)
 
 Para confirmação aparecerá a mensagem abaixo.
+
 ![alt text](https://github.com/ppegoretti/DesafioPy/blob/master/imagens/Confirmacao.PNG?raw=true)
