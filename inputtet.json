@@ -1,0 +1,34 @@
+{
+    "transactionId": "a6s52as4-cd31-99a5-9a49-a2ss308d2f92",
+    "timestamp": "13/09/2019 09:43:11",
+    "type": "ted",
+    "amount": "2.547,50",
+    "from": {
+        "account": {
+            "branch": "00019",
+            "number": "00610420-5",
+            "institutionName": "Banco ABC Brasil S.A. (246)",
+            "name": "ATAR Tecnologia LTDA"
+        },
+        "entity": {
+            "atarId": "0032 0212 9980 9111",
+            "fullName": "Alice Gomes Ribeiro",
+            "document": "002.988.012-09",
+            "documentType": "CPF"
+        }
+    },
+    "to": {
+        "account": {
+            "branch": "00321",
+            "number": "021451-8",
+            "institutionName": "Banco do Brasil",
+            "name": "string"
+        },
+        "entity": {
+            "atarId": "string",
+            "fullName": "Victor Castro",
+            "document": "string",
+            "documentType": "string"
+        }
+    }
+}
