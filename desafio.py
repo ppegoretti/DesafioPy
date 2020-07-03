@@ -5,7 +5,7 @@ from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
 
-with open('inputtet.json') as f:
+with open('input.json') as f:
   input_Json = json.load(f)
 
 def px_mm(value):
