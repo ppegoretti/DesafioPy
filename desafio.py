@@ -13,6 +13,7 @@ def px_mm(value):
 
 #variables
 pageFormat = (px_mm(375), px_mm(1127.55))
+logo = "files/Logo.png"
 
 class PDF(FPDF):
     def header(self):
